@@ -3,7 +3,7 @@ package br.com.wallace.app.controller;
 import br.com.wallace.app.domain.medico.Medico;
 import br.com.wallace.app.domain.medico.MedicoRequest;
 import br.com.wallace.app.domain.medico.MedicoResponse;
-import br.com.wallace.app.service.medico.ServiceMedico;
+import br.com.wallace.app.service.ServiceMedico;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

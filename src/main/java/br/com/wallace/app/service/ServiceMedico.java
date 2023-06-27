@@ -1,4 +1,4 @@
-package br.com.wallace.app.service.medico;
+package br.com.wallace.app.service;
 
 import br.com.wallace.app.domain.medico.Medico;
 import br.com.wallace.app.domain.medico.MedicoRequest;
